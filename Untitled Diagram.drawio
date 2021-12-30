@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T04:29:12.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="rOrogTGr7g6uUpjPC-l6" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T06:30:36.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="9RZpnbLBBEgTQ6Ha_tH7" version="16.1.0" type="github">
   <diagram id="m6__KW4LDvdU8QPtBLF1" name="Page-1">
     <mxGraphModel dx="1718" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="G4ISepCTa3lVaH05cGdB-1" value="Chuyên viên mua hàng&lt;br&gt;BVT" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="G4ISepCTa3lVaH05cGdB-1" value="BVT" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="70" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G4ISepCTa3lVaH05cGdB-2" value="z" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
